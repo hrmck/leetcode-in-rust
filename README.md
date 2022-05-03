@@ -12,3 +12,15 @@
   - `while` loop
 
 ---
+
+## Day 2 (2022/03/03)
+
+- LeetCode 1491
+  - learnt about Vector
+  - revised about pointers
+- LeetCode 191
+  - Rust has a method `count_ones()` in `u32` which makes the solution a one-liner lol
+- LeetCode 1281
+  - should've used iterator
+
+---
