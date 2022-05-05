@@ -11,8 +11,6 @@
   - if-else statements
   - `while` loop
 
----
-
 ## Day 2 (2022/05/03)
 
 - LeetCode 1491
@@ -22,8 +20,6 @@
   - Rust has a method `count_ones()` in `u32` which makes the solution a one-liner lol
 - LeetCode 1281
   - should've used iterator
-
----
 
 ## Day 3 (2022/05/04)
 
@@ -35,4 +31,10 @@
     - peekable
   - :question: The performance and memory usage in this implemention is higher than the ones using for loops...why?
 
----
+# Day 4 (2022/05/05)
+- LeetCode 1822
+- LeetCode 1502
+- LeetCode 202
+- LeetCode 1790
+  - `match` (somthing similar to `switch` in C)
+  - tuples
