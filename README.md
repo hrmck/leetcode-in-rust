@@ -38,3 +38,12 @@
 - LeetCode 1790
   - `match` (somthing similar to `switch` in C)
   - tuples
+
+## Day 5 (2022/05/06)
+- LeetCode 589 (does not support Rust, switching to Python)
+- LeetCode 496
+  - :poop: referencing and dereferencing
+  - `HashMap`
+- LeetCode 1232
+  - :poop: division by zero
+  - destructing assignment e.g. `let (mux a, mux b) = ("foo", "boo");`
